@@ -1,0 +1,28 @@
+.links {
+    text-align:right;
+    margin-top: 4px;
+    margin-right: 8px;
+}
+
+.links > a {
+    color: black;
+    text-decoration: none;
+}
+
+.search_bar {
+    border-radius:14px;
+    height: 32px;
+    box-shadow:2px 2px 2px 2px lightgray;
+    border-width:0;
+    border-color:white;
+    text-align: center;
+    width: 500px;
+}
+
+.search_container {
+    text-align:center;
+}
+
+h1 {
+    text-align:center;
+}
